@@ -1,0 +1,18 @@
+{
+  "name": "mern-exercise-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alex",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
