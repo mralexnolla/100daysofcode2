@@ -1,0 +1,18 @@
+.navtextcolor {
+  color: gray;
+}
+
+.navtextcolor .brand {
+  color: white;
+}
+
+.edittextcolor{
+  color: white;
+}
+
+.button{
+  color: white;
+  background-color: transparent;
+  border: none;
+}
+
